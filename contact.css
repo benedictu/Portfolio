@@ -5,7 +5,6 @@
 .nav{
     background-color: rgb(0, 0, 0);
     line-height: 3cm;
-    line-width: 2cm;
 }
 
 .h1:hover{
@@ -20,7 +19,7 @@ ul{
 ol{
     background-color: rgb(0, 0, 0) ;
     line-height: 2cm;
-    margin-right: 18cm;
+    margin-right: 0cm;
 }
 
 li{
