@@ -25,16 +25,17 @@
         color: white;
     }
 
-    .p3 {
-        background-color: rgba(7, 7, 3, 0.342);
-        color: lawngreen;
-    }
     .tom:hover{
         color: red;
         animation-delay: 1ms;
         transition-property: all;
     }
 
+    .p3 {
+        background-color: rgba(7, 7, 3, 0.342);
+        color: lawngreen;
+    }
+    
     .container-fluid{
         margin-right: 12cm;
         margin-left: 1.5cm;
@@ -126,4 +127,12 @@ h1 {
          margin-left: 2cm;
          color: teal;
      }
-     
+     .links {
+         text-decoration-color: none;
+         text-decoration: none;
+         margin-left: 1cm;
+     }
+
+     .links:hover{
+         color: #f06e6e;
+     }
